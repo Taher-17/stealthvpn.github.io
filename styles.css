@@ -20,10 +20,20 @@ h1, h5, p {
 }
 
 .carousel-inner img {
-    width: 30%;
-    height: 30%;
+    width: 25%;
+    height: 25%;
     margin-bottom: 1.2rem
 }
+
+@media only screen and (max-width: 480px) {
+    .carousel-inner img {
+        width: 40%;
+        height: 40%;
+        margin-bottom: 1.2rem
+    }
+}
+
+
 
 .appstore {
     padding-top: 1.2rem !important;
