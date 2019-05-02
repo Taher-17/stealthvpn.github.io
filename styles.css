@@ -1,5 +1,6 @@
 .container {
     background-color: #090a0a;
+    background-color:#151516 !important; 
     text-align: center;
 }
 h1, h5, p {
@@ -7,7 +8,7 @@ h1, h5, p {
     text-align: center;
 }
 .jumbotron {
-    background-color:#151516 !important; 
+    background-color: black !important;
     padding-top: 1.2rem !important;
     padding-bottom: 1.2rem !important; 
 } 	
@@ -22,6 +23,11 @@ h1, h5, p {
     width: 30%;
     height: 30%;
     margin-bottom: 1.2rem
+}
+
+.appstore {
+    padding-top: 1.2rem !important;
+    padding-bottom: 1.2rem !important; 
 }
 
 .carousel-indicators {
