@@ -26,9 +26,10 @@ h1, h5, p {
 }
 
 @media only screen and (max-width: 480px) {
+   
     .carousel-inner img {
-        width: 40%;
-        height: 40%;
+        width: 60%;
+        height: 60%;
         margin-bottom: 1.2rem
     }
 }
