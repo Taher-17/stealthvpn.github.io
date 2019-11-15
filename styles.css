@@ -1,6 +1,5 @@
 .container {
-    background-color: #090a0a;
-    background-color:#151516 !important; 
+    background-color: black !important;
     text-align: center;
 }
 h1, h5, p {
@@ -8,7 +7,7 @@ h1, h5, p {
     text-align: center;
 }
 .jumbotron {
-    background-color: black !important;
+    background-color: #090a0a !important;
     padding-top: 1.2rem !important;
     padding-bottom: 1.2rem !important; 
 } 	
