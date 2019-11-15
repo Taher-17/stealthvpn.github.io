@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: stealthvpnapp.ml
+Token: 02d4e48e880a836c42247dd583bcb55fd0194b7844b46377720560d43dfecd0a
